@@ -1,0 +1,45 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+  <div class="container">
+    <a class="navbar-brand fw-bold d-flex align-items-center text-primary" routerLink="/dashboard">
+      <span class="me-2">⚽</span> La Polla Mundial
+    </a>
+
+    <button class="navbar-toggler border-0"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link fw-semibold"
+             routerLink="/dashboard"
+             routerLinkActive="active text-primary">
+            📋 Mis Pronósticos
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link fw-semibold"
+             routerLink="/ranking"
+             routerLinkActive="active text-primary">
+            🏆 Tabla de Posiciones
+          </a>
+        </li>
+      </ul>
+
+      <div class="d-flex align-items-center gap-3">
+        <span class="text-light small d-none d-sm-inline">
+          👋 Hola, <strong class="text-warning">{{ nombreUsuario }}</strong>
+        </span>
+        <button class="btn btn-outline-danger btn-sm rounded-pill px-3 fw-bold" (click)="onLogout()">
+          🚪 Salir
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>

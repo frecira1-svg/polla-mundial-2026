@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+.angular/
+taller-git/proyecto-web/
+.codeium/
+*.dll
+*.exe

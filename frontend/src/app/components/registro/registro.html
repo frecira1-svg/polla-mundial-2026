@@ -1,0 +1,70 @@
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+  <div class="card shadow-lg border-0 p-4 rounded-4" style="max-width: 450px; width: 100%;">
+
+    <div class="text-center mb-4">
+      <h2 class="fw-bold text-success">📝 Crea tu Cuenta</h2>
+      <p class="text-muted">Regístrate para participar en la Polla Mundial</p>
+    </div>
+
+    @if (errorMessage) {
+      <div class="alert alert-danger rounded-3 text-center py-2 small" role="alert">
+        ❌ {{ errorMessage }}
+      </div>
+    }
+    @if (successMessage) {
+      <div class="alert alert-success rounded-3 text-center py-2 small" role="alert">
+        🎉 {{ successMessage }}
+      </div>
+    }
+
+    <form (ngSubmit)="onRegister()" #registerForm="ngForm">
+
+      <div class="mb-3">
+        <label for="nombre" class="form-label fw-semibold text-secondary">Nombre Completo</label>
+        <input type="text"
+               id="nombre"
+               name="nombre"
+               class="form-control form-control-lg rounded-3"
+               placeholder="Tu nombre y apellido"
+               [(ngModel)]="nombre"
+               required>
+      </div>
+
+      <div class="mb-3">
+        <label for="email" class="form-label fw-semibold text-secondary">Correo Electrónico</label>
+        <input type="email"
+               id="email"
+               name="email"
+               class="form-control form-control-lg rounded-3"
+               placeholder="ejemplo@correo.com"
+               [(ngModel)]="email"
+               required>
+      </div>
+
+      <div class="mb-4">
+        <label for="password" class="form-label fw-semibold text-secondary">Contraseña</label>
+        <input type="password"
+               id="password"
+               name="password"
+               placeholder="Mínimo 6 caracteres"
+               class="form-control form-control-lg rounded-3"
+               [(ngModel)]="password"
+               required>
+      </div>
+
+      <button type="submit"
+              class="btn btn-success btn-lg w-100 rounded-3 fw-bold py-2 mb-3"
+              [disabled]="!registerForm.form.valid">
+        Registrarme
+      </button>
+
+      <div class="text-center">
+        <a routerLink="/login" class="text-secondary small text-decoration-none">
+          ⬅️ Ya tengo cuenta, volver al Login
+        </a>
+      </div>
+
+    </form>
+
+  </div>
+</div>

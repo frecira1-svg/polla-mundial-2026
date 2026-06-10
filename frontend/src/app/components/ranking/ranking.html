@@ -1,0 +1,78 @@
+<app-navbar></app-navbar>
+
+<div class="container py-5">
+  <div class="text-center mb-5">
+    <h1 class="fw-bold text-primary">🏆 Tabla de Posiciones</h1>
+    <p class="text-muted fs-5">Así va la competencia en la Polla Mundial. ¡Cada gol cuenta!</p>
+  </div>
+
+  <div class="row g-3 justify-content-center align-items-end mb-5 text-center" *ngIf="listaRanking.length > 0">
+
+    <div class="col-4 col-md-3 order-1" *ngIf="listaRanking[1]">
+      <div class="card border-0 shadow-sm bg-white rounded-4 p-3 pt-4 position-relative">
+        <span class="fs-1">🥈</span>
+        <h5 class="fw-bold text-secondary text-truncate mt-2">{{ listaRanking[1].nombre }}</h5>
+        <span class="badge bg-secondary rounded-pill px-3 py-2 fs-6 shadow-sm">{{ listaRanking[1].puntosTotales }} pts</span>
+      </div>
+    </div>
+
+    <div class="col-5 col-md-3 order-0 order-md-1">
+      <div class="card border-0 shadow-lg bg-white rounded-4 p-4 position-relative border-top border-warning border-4" style="transform: scale(1.05); z-index: 2;">
+        <span class="fs-1">👑</span>
+        <h4 class="fw-bold text-warning text-truncate mt-2">{{ listaRanking[0].nombre }}</h4>
+        <span class="badge bg-warning text-dark rounded-pill px-4 py-2 fs-5 shadow-sm fw-bold">{{ listaRanking[0].puntosTotales }} pts</span>
+      </div>
+    </div>
+
+    <div class="col-4 col-md-3 order-2" *ngIf="listaRanking[2]">
+      <div class="card border-0 shadow-sm bg-white rounded-4 p-3 pt-4 position-relative">
+        <span class="fs-1">🥉</span>
+        <h5 class="fw-bold text-danger text-truncate mt-2">{{ listaRanking[2].nombre }}</h5>
+        <span class="badge bg-danger rounded-pill px-3 py-2 fs-6 shadow-sm">{{ listaRanking[2].puntosTotales }} pts</span>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="card shadow-sm border-0 rounded-4 overflow-hidden">
+    <div class="table-responsive">
+      <table class="table table-hover align-middle mb-0">
+        <thead class="table-dark">
+          <tr>
+            <th class="text-center py-3" style="width: 100px;">Puesto</th>
+            <th class="py-3">Participante</th>
+            <th class="text-center py-3" style="width: 150px;">Puntos Totales</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let usuario of listaRanking; let i = index" [class.table-light]="i < 3">
+            <td class="text-center fw-bold text-secondary fs-5">
+              <span *ngIf="i === 0">🥇</span>
+              <span *ngIf="i === 1">🥈</span>
+              <span *ngIf="i === 2">🥉</span>
+              <span *ngIf="i > 2">#{{ i + 1 }}</span>
+            </td>
+            <td>
+              <div class="d-flex align-items-center">
+                <div class="avatar bg-primary bg-opacity-10 text-primary rounded-circle d-flex align-items-center justify-content-center fw-bold me-3" style="width: 40px; height: 40px;">
+                  {{ usuario.nombre.substring(0, 2) | uppercase }}
+                </div>
+                <span class="fw-semibold text-dark">{{ usuario.nombre }}</span>
+              </div>
+            </td>
+            <td class="text-center">
+              <span class="fw-bold text-primary fs-5">{{ usuario.puntosTotales }}</span>
+            </td>
+          </tr>
+
+          <tr *ngIf="listaRanking.length === 0">
+            <td colspan="3" class="text-center py-5 text-muted">
+              <div class="spinner-border text-primary mb-2" role="status"></div>
+              <p class="mb-0">Cargando la tabla de posiciones...</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

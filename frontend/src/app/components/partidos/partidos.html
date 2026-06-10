@@ -1,0 +1,29 @@
+<app-navbar></app-navbar>
+
+<div class="container">
+  ...
+</div>
+<div class="partidos-grid" *ngIf="!loading">
+  <div class="card-partido" *ngFor="let p of listaPartidos">
+
+    <div class="info-encuentro">
+      <div class="equipo">
+        <img [src]="p.bandera_Local" alt="bandera" width="30">
+        <span>{{ p.equipo_local }}</span>
+      </div>
+
+      <div class="vs">VS</div>
+
+      <div class="equipo">
+        <span>{{ p.equipo_visitante }}</span>
+        <img [src]="p.bandera_Visitante" alt="bandera" width="30">
+      </div>
+    </div>
+
+    <div class="pronostico-box" *ngIf="p.estado === 'PENDIENTE'">
+      <input type="number" [(ngModel)]="pronosticosTemporales[p.id].goles_local" placeholder="Local">
+      <input type="number" [(ngModel)]="pronosticosTemporales[p.id].goles_visitante" placeholder="Visita">
+      <button (click)="enviarApuesta(p.id)">Guardar</button>
+    </div>
+  </div>
+</div>
