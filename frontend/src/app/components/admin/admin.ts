@@ -2,6 +2,7 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { NavbarComponent } from '../navbar/navbar';
+import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-admin',
@@ -12,8 +13,8 @@ import { NavbarComponent } from '../navbar/navbar';
 export class AdminComponent implements OnInit {
   private http = inject(HttpClient);
 
-  private apiPartidos = 'http://localhost:3000/api/partidos';
-  private apiActualizar = 'http://localhost:3000/api/partidos/resultado';
+  private apiPartidos = `${environment.apiUrl}/partidos`;
+  private apiActualizar = `${environment.apiUrl}/partidos/resultado`;
 
   public partidos: any[] = [];
 
@@ -44,7 +45,7 @@ export class AdminComponent implements OnInit {
       next: (response) => {
         console.log('✅ Resultado real guardado con éxito:', response);
         alert('🏆 ¡Resultado oficial publicado con éxito! Se recalcularán los puntos.');
-        this.cargarPartidos(); // Recargamos para ver los datos frescos
+        this.cargarPartidos();
       },
       error: (err) => {
         console.error('❌ Error al publicar resultado real:', err);

@@ -1,0 +1,3030 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 767E-B7A6
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend
+
+03/06/2026  01:35p.ÿm.           296.643 package-lock.json
+03/06/2026  01:35p.ÿm.               840 package.json
+               2 archivos        297.483 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\.angular\cache\21.2.14\frontend\vite\deps
+
+09/06/2026  02:26p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@acemir\cssom
+
+03/06/2026  01:04p.ÿm.               725 package.json
+               1 archivos            725 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\abtesting
+
+03/06/2026  01:04p.ÿm.             1.987 package.json
+               1 archivos          1.987 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-abtesting
+
+03/06/2026  01:04p.ÿm.             2.008 package.json
+               1 archivos          2.008 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-analytics
+
+03/06/2026  01:04p.ÿm.             2.008 package.json
+               1 archivos          2.008 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-common
+
+03/06/2026  01:04p.ÿm.             1.322 package.json
+               1 archivos          1.322 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-insights
+
+03/06/2026  01:04p.ÿm.             2.005 package.json
+               1 archivos          2.005 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-personalization
+
+03/06/2026  01:04p.ÿm.             2.026 package.json
+               1 archivos          2.026 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-query-suggestions
+
+03/06/2026  01:04p.ÿm.             2.032 package.json
+               1 archivos          2.032 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\client-search
+
+03/06/2026  01:04p.ÿm.             1.999 package.json
+               1 archivos          1.999 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\ingestion
+
+03/06/2026  01:04p.ÿm.             1.987 package.json
+               1 archivos          1.987 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\monitoring
+
+03/06/2026  01:04p.ÿm.             1.990 package.json
+               1 archivos          1.990 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\recommend
+
+03/06/2026  01:04p.ÿm.             1.987 package.json
+               1 archivos          1.987 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\requester-browser-xhr
+
+03/06/2026  01:04p.ÿm.             1.390 package.json
+               1 archivos          1.390 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\requester-fetch
+
+03/06/2026  01:04p.ÿm.             1.940 package.json
+               1 archivos          1.940 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@algolia\requester-node-http
+
+03/06/2026  01:04p.ÿm.             1.430 package.json
+               1 archivos          1.430 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@ampproject\remapping
+
+03/06/2026  01:04p.ÿm.             2.233 package.json
+               1 archivos          2.233 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\build
+
+03/06/2026  01:04p.ÿm.             3.089 package.json
+               1 archivos          3.089 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\cli
+
+03/06/2026  01:04p.ÿm.             1.827 package.json
+               1 archivos          1.827 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\cli\bin
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\common
+
+03/06/2026  01:04p.ÿm.             1.998 package.json
+               1 archivos          1.998 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\compiler
+
+03/06/2026  01:04p.ÿm.             1.250 package.json
+               1 archivos          1.250 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\compiler-cli
+
+03/06/2026  01:04p.ÿm.             2.226 package.json
+               1 archivos          2.226 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\core
+
+03/06/2026  01:04p.ÿm.             2.508 package.json
+               1 archivos          2.508 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\forms
+
+03/06/2026  01:04p.ÿm.             1.783 package.json
+               1 archivos          1.783 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\platform-browser
+
+03/06/2026  01:04p.ÿm.             1.870 package.json
+               1 archivos          1.870 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular\router
+
+03/06/2026  01:04p.ÿm.             1.860 package.json
+               1 archivos          1.860 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular-devkit\architect
+
+03/06/2026  01:04p.ÿm.               919 package.json
+               1 archivos            919 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular-devkit\core
+
+03/06/2026  01:04p.ÿm.             1.458 package.json
+               1 archivos          1.458 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular-devkit\schematics
+
+03/06/2026  01:04p.ÿm.             1.003 package.json
+               1 archivos          1.003 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular-devkit\schematics\tasks
+
+03/06/2026  01:04p.ÿm.                98 package.json
+               1 archivos             98 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular-devkit\schematics\testing
+
+03/06/2026  01:04p.ÿm.               100 package.json
+               1 archivos            100 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@angular-devkit\schematics\tools
+
+03/06/2026  01:04p.ÿm.                98 package.json
+               1 archivos             98 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\css-color
+
+03/06/2026  01:04p.ÿm.             2.561 package.json
+               1 archivos          2.561 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\dom-selector
+
+03/06/2026  01:04p.ÿm.             2.347 package.json
+               1 archivos          2.347 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\dom-selector\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\dom-selector\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\dom-selector\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\generational-cache
+
+03/06/2026  01:04p.ÿm.             1.808 package.json
+               1 archivos          1.808 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@asamuzakjp\nwsapi
+
+03/06/2026  01:04p.ÿm.               889 package.json
+               1 archivos            889 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\code-frame
+
+03/06/2026  01:04p.ÿm.               907 package.json
+               1 archivos            907 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\compat-data
+
+03/06/2026  01:04p.ÿm.             1.192 package.json
+               1 archivos          1.192 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\core
+
+03/06/2026  01:04p.ÿm.             2.504 package.json
+               1 archivos          2.504 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\core\node_modules\convert-source-map
+
+03/06/2026  01:04p.ÿm.               804 package.json
+               1 archivos            804 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\core\node_modules\semver
+
+03/06/2026  01:04p.ÿm.               981 package.json
+               1 archivos            981 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\generator
+
+03/06/2026  01:04p.ÿm.             1.083 package.json
+               1 archivos          1.083 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-annotate-as-pure
+
+03/06/2026  01:04p.ÿm.               715 package.json
+               1 archivos            715 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-compilation-targets
+
+03/06/2026  01:04p.ÿm.             1.040 package.json
+               1 archivos          1.040 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-compilation-targets\node_modules\semver
+
+03/06/2026  01:04p.ÿm.               981 package.json
+               1 archivos            981 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-globals
+
+03/06/2026  01:04p.ÿm.               814 package.json
+               1 archivos            814 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-module-imports
+
+03/06/2026  01:04p.ÿm.               722 package.json
+               1 archivos            722 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-module-transforms
+
+03/06/2026  01:04p.ÿm.               874 package.json
+               1 archivos            874 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-split-export-declaration
+
+03/06/2026  01:04p.ÿm.               673 package.json
+               1 archivos            673 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-string-parser
+
+03/06/2026  01:04p.ÿm.               758 package.json
+               1 archivos            758 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-validator-identifier
+
+03/06/2026  01:04p.ÿm.               738 package.json
+               1 archivos            738 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helper-validator-option
+
+03/06/2026  01:04p.ÿm.               631 package.json
+               1 archivos            631 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\helpers
+
+03/06/2026  01:04p.ÿm.               813 package.json
+               1 archivos            813 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\parser
+
+03/06/2026  01:04p.ÿm.             1.382 package.json
+               1 archivos          1.382 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\template
+
+03/06/2026  01:04p.ÿm.               771 package.json
+               1 archivos            771 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\traverse
+
+03/06/2026  01:04p.ÿm.             1.092 package.json
+               1 archivos          1.092 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@babel\types
+
+03/06/2026  01:04p.ÿm.             1.065 package.json
+               1 archivos          1.065 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@bramus\specificity
+
+03/06/2026  01:04p.ÿm.             2.795 package.json
+               1 archivos          2.795 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@csstools\color-helpers
+
+03/06/2026  01:04p.ÿm.             1.140 package.json
+               1 archivos          1.140 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@csstools\css-calc
+
+03/06/2026  01:04p.ÿm.             1.195 package.json
+               1 archivos          1.195 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@csstools\css-color-parser
+
+03/06/2026  01:04p.ÿm.             1.323 package.json
+               1 archivos          1.323 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@csstools\css-parser-algorithms
+
+03/06/2026  01:04p.ÿm.             1.220 package.json
+               1 archivos          1.220 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@csstools\css-syntax-patches-for-csstree
+
+03/06/2026  01:04p.ÿm.             1.193 package.json
+               1 archivos          1.193 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@csstools\css-tokenizer
+
+03/06/2026  01:04p.ÿm.             1.089 package.json
+               1 archivos          1.089 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@esbuild\win32-x64
+
+03/06/2026  01:04p.ÿm.               374 package.json
+               1 archivos            374 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@exodus\bytes
+
+03/06/2026  01:04p.ÿm.             8.600 package.json
+               1 archivos          8.600 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@gar\promise-retry
+
+03/06/2026  01:04p.ÿm.             1.099 package.json
+               1 archivos          1.099 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@harperfast\extended-iterable
+
+03/06/2026  01:04p.ÿm.               784 package.json
+               1 archivos            784 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@hono\node-server
+
+03/06/2026  01:04p.ÿm.             2.633 package.json
+               1 archivos          2.633 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\ansi
+
+03/06/2026  01:04p.ÿm.             1.870 package.json
+               1 archivos          1.870 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\ansi\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\ansi\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\checkbox
+
+03/06/2026  01:04p.ÿm.             2.276 package.json
+               1 archivos          2.276 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\checkbox\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\checkbox\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\confirm
+
+03/06/2026  01:04p.ÿm.             2.173 package.json
+               1 archivos          2.173 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\confirm\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\confirm\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\core
+
+03/06/2026  01:04p.ÿm.             2.449 package.json
+               1 archivos          2.449 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\core\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\core\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\editor
+
+03/06/2026  01:04p.ÿm.             2.223 package.json
+               1 archivos          2.223 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\editor\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\editor\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\expand
+
+03/06/2026  01:04p.ÿm.             2.205 package.json
+               1 archivos          2.205 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\expand\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\expand\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\external-editor
+
+03/06/2026  01:04p.ÿm.             2.307 package.json
+               1 archivos          2.307 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\external-editor\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\external-editor\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\figures
+
+03/06/2026  01:04p.ÿm.             1.872 package.json
+               1 archivos          1.872 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\figures\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\figures\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\input
+
+03/06/2026  01:04p.ÿm.             2.171 package.json
+               1 archivos          2.171 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\input\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\input\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\number
+
+03/06/2026  01:04p.ÿm.             2.170 package.json
+               1 archivos          2.170 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\number\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\number\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\password
+
+03/06/2026  01:04p.ÿm.             2.208 package.json
+               1 archivos          2.208 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\password\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\password\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\prompts
+
+03/06/2026  01:04p.ÿm.             2.509 package.json
+               1 archivos          2.509 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\prompts\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\prompts\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\rawlist
+
+03/06/2026  01:04p.ÿm.             2.206 package.json
+               1 archivos          2.206 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\rawlist\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\rawlist\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\search
+
+03/06/2026  01:04p.ÿm.             2.238 package.json
+               1 archivos          2.238 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\search\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\search\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\select
+
+03/06/2026  01:04p.ÿm.             2.275 package.json
+               1 archivos          2.275 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\select\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\select\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\type
+
+03/06/2026  01:04p.ÿm.             1.979 package.json
+               1 archivos          1.979 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\type\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@inquirer\type\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@isaacs\fs-minipass
+
+03/06/2026  01:04p.ÿm.             1.675 package.json
+               1 archivos          1.675 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@isaacs\fs-minipass\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@isaacs\fs-minipass\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@istanbuljs\schema
+
+03/06/2026  01:04p.ÿm.               652 package.json
+               1 archivos            652 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@jridgewell\gen-mapping
+
+03/06/2026  01:04p.ÿm.             2.201 package.json
+               1 archivos          2.201 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@jridgewell\remapping
+
+03/06/2026  01:04p.ÿm.             2.307 package.json
+               1 archivos          2.307 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@jridgewell\resolve-uri
+
+03/06/2026  01:04p.ÿm.             2.063 package.json
+               1 archivos          2.063 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@jridgewell\sourcemap-codec
+
+03/06/2026  01:04p.ÿm.             2.150 package.json
+               1 archivos          2.150 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@jridgewell\trace-mapping
+
+03/06/2026  01:04p.ÿm.             2.252 package.json
+               1 archivos          2.252 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@listr2\prompt-adapter-inquirer
+
+03/06/2026  01:04p.ÿm.             2.237 package.json
+               1 archivos          2.237 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@lmdb\lmdb-win32-x64
+
+03/06/2026  01:04p.ÿm.               474 package.json
+               1 archivos            474 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@modelcontextprotocol\sdk
+
+03/06/2026  01:04p.ÿm.             5.031 package.json
+               1 archivos          5.031 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@modelcontextprotocol\sdk\dist\cjs
+
+03/06/2026  01:04p.ÿm.                21 package.json
+               1 archivos             21 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@modelcontextprotocol\sdk\dist\esm
+
+03/06/2026  01:04p.ÿm.                19 package.json
+               1 archivos             19 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64
+
+03/06/2026  01:04p.ÿm.               377 package.json
+               1 archivos            377 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@napi-rs\nice
+
+03/06/2026  01:04p.ÿm.             3.639 package.json
+               1 archivos          3.639 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@napi-rs\nice-win32-x64-msvc
+
+03/06/2026  01:04p.ÿm.               661 package.json
+               1 archivos            661 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\agent
+
+03/06/2026  01:04p.ÿm.             1.566 package.json
+               1 archivos          1.566 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\agent\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\agent\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\agent\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\fs
+
+03/06/2026  01:04p.ÿm.             1.230 package.json
+               1 archivos          1.230 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git
+
+03/06/2026  01:04p.ÿm.             1.414 package.json
+               1 archivos          1.414 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\isexe
+
+03/06/2026  01:04p.ÿm.             1.977 package.json
+               1 archivos          1.977 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\isexe\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\isexe\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\git\node_modules\which
+
+03/06/2026  01:04p.ÿm.             1.245 package.json
+               1 archivos          1.245 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\installed-package-contents
+
+03/06/2026  01:04p.ÿm.             1.334 package.json
+               1 archivos          1.334 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\node-gyp
+
+03/06/2026  01:04p.ÿm.             1.143 package.json
+               1 archivos          1.143 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\package-json
+
+03/06/2026  01:04p.ÿm.             1.419 package.json
+               1 archivos          1.419 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\promise-spawn
+
+03/06/2026  01:04p.ÿm.             1.240 package.json
+               1 archivos          1.240 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\promise-spawn\node_modules\isexe
+
+03/06/2026  01:04p.ÿm.             1.977 package.json
+               1 archivos          1.977 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\promise-spawn\node_modules\isexe\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\promise-spawn\node_modules\isexe\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\promise-spawn\node_modules\which
+
+03/06/2026  01:04p.ÿm.             1.245 package.json
+               1 archivos          1.245 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\redact
+
+03/06/2026  01:04p.ÿm.             1.245 package.json
+               1 archivos          1.245 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@npmcli\run-script
+
+03/06/2026  01:04p.ÿm.             1.334 package.json
+               1 archivos          1.334 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@oxc-project\types
+
+03/06/2026  01:04p.ÿm.               577 package.json
+               1 archivos            577 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@parcel\watcher
+
+03/06/2026  01:04p.ÿm.             2.202 package.json
+               1 archivos          2.202 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@parcel\watcher\node_modules\node-addon-api
+
+03/06/2026  01:04p.ÿm.               467 package-support.json
+03/06/2026  01:04p.ÿm.            10.784 package.json
+               2 archivos         11.251 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@parcel\watcher-win32-x64
+
+03/06/2026  01:04p.ÿm.               605 package.json
+               1 archivos            605 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@popperjs\core
+
+03/06/2026  01:05p.ÿm.             4.230 package.json
+               1 archivos          4.230 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@rolldown\binding-win32-x64-msvc
+
+03/06/2026  01:04p.ÿm.               787 package.json
+               1 archivos            787 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@rolldown\pluginutils
+
+03/06/2026  01:04p.ÿm.               824 package.json
+               1 archivos            824 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@rollup\rollup-win32-x64-gnu
+
+03/06/2026  01:04p.ÿm.               451 package.json
+               1 archivos            451 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@rollup\rollup-win32-x64-msvc
+
+03/06/2026  01:04p.ÿm.               454 package.json
+               1 archivos            454 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@schematics\angular
+
+03/06/2026  01:04p.ÿm.             1.145 package.json
+               1 archivos          1.145 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@schematics\angular\utility\latest-versions
+
+03/06/2026  01:04p.ÿm.             1.128 package.json
+               1 archivos          1.128 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@sigstore\bundle
+
+03/06/2026  01:04p.ÿm.               810 package.json
+               1 archivos            810 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@sigstore\core
+
+03/06/2026  01:04p.ÿm.               732 package.json
+               1 archivos            732 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@sigstore\protobuf-specs
+
+03/06/2026  01:04p.ÿm.               822 package.json
+               1 archivos            822 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@sigstore\sign
+
+03/06/2026  01:04p.ÿm.             1.135 package.json
+               1 archivos          1.135 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@sigstore\tuf
+
+03/06/2026  01:04p.ÿm.               987 package.json
+               1 archivos            987 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@sigstore\verify
+
+03/06/2026  01:04p.ÿm.               878 package.json
+               1 archivos            878 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@standard-schema\spec
+
+03/06/2026  01:04p.ÿm.             1.146 package.json
+               1 archivos          1.146 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@tufjs\canonical-json
+
+03/06/2026  01:04p.ÿm.               771 package.json
+               1 archivos            771 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@tufjs\models
+
+03/06/2026  01:04p.ÿm.               872 package.json
+               1 archivos            872 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@types\chai
+
+03/06/2026  01:04p.ÿm.             2.284 package.json
+               1 archivos          2.284 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@types\deep-eql
+
+03/06/2026  01:04p.ÿm.               792 package.json
+               1 archivos            792 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@types\estree
+
+03/06/2026  01:04p.ÿm.               829 package.json
+               1 archivos            829 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitejs\plugin-basic-ssl
+
+03/06/2026  01:04p.ÿm.             1.776 package.json
+               1 archivos          1.776 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\expect
+
+03/06/2026  01:04p.ÿm.             1.157 package.json
+               1 archivos          1.157 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\mocker
+
+03/06/2026  01:04p.ÿm.             2.274 package.json
+               1 archivos          2.274 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\pretty-format
+
+03/06/2026  01:04p.ÿm.             1.158 package.json
+               1 archivos          1.158 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\runner
+
+03/06/2026  01:04p.ÿm.             1.156 package.json
+               1 archivos          1.156 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\snapshot
+
+03/06/2026  01:04p.ÿm.             1.352 package.json
+               1 archivos          1.352 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\spy
+
+03/06/2026  01:04p.ÿm.             1.010 package.json
+               1 archivos          1.010 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\utils
+
+03/06/2026  01:04p.ÿm.             2.500 package.json
+               1 archivos          2.500 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@vitest\utils\node_modules\convert-source-map
+
+03/06/2026  01:04p.ÿm.               804 package.json
+               1 archivos            804 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\@yarnpkg\lockfile
+
+03/06/2026  01:04p.ÿm.               343 package.json
+               1 archivos            343 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\abbrev
+
+03/06/2026  01:04p.ÿm.             1.232 package.json
+               1 archivos          1.232 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\accepts
+
+03/06/2026  01:04p.ÿm.             1.157 package.json
+               1 archivos          1.157 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\agent-base
+
+03/06/2026  01:04p.ÿm.             1.059 package.json
+               1 archivos          1.059 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ajv
+
+03/06/2026  01:04p.ÿm.             4.481 package.json
+               1 archivos          4.481 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ajv-formats
+
+03/06/2026  01:04p.ÿm.             1.897 package.json
+               1 archivos          1.897 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\algoliasearch
+
+03/06/2026  01:04p.ÿm.             3.376 package.json
+               1 archivos          3.376 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ansi-escapes
+
+03/06/2026  01:04p.ÿm.             1.147 package.json
+               1 archivos          1.147 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ansi-regex
+
+03/06/2026  01:04p.ÿm.             1.035 package.json
+               1 archivos          1.035 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ansi-styles
+
+03/06/2026  01:04p.ÿm.             1.021 package.json
+               1 archivos          1.021 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\assertion-error
+
+03/06/2026  01:04p.ÿm.               863 package.json
+               1 archivos            863 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\balanced-match
+
+03/06/2026  01:04p.ÿm.             1.596 package.json
+               1 archivos          1.596 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\balanced-match\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\balanced-match\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\baseline-browser-mapping
+
+03/06/2026  01:04p.ÿm.             2.833 package.json
+               1 archivos          2.833 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\beasties
+
+03/06/2026  01:04p.ÿm.             1.737 package.json
+               1 archivos          1.737 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\bidi-js
+
+03/06/2026  01:04p.ÿm.             1.068 package.json
+               1 archivos          1.068 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\body-parser
+
+03/06/2026  01:04p.ÿm.             1.359 package.json
+               1 archivos          1.359 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\boolbase
+
+03/06/2026  01:04p.ÿm.               550 package.json
+               1 archivos            550 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\bootstrap
+
+03/06/2026  01:05p.ÿm.            10.476 package.json
+               1 archivos         10.476 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\brace-expansion
+
+03/06/2026  01:04p.ÿm.             1.559 package.json
+               1 archivos          1.559 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\brace-expansion\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\brace-expansion\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\browserslist
+
+03/06/2026  01:04p.ÿm.             1.112 package.json
+               1 archivos          1.112 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\buffer-from
+
+03/06/2026  01:04p.ÿm.               304 package.json
+               1 archivos            304 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\bytes
+
+03/06/2026  01:04p.ÿm.               959 package.json
+               1 archivos            959 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cacache
+
+03/06/2026  01:04p.ÿm.             1.965 package.json
+               1 archivos          1.965 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cacache\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cacache\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cacache\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\call-bind-apply-helpers
+
+03/06/2026  01:04p.ÿm.             2.480 package.json
+               1 archivos          2.480 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\call-bound
+
+03/06/2026  01:04p.ÿm.             2.507 package.json
+               1 archivos          2.507 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\caniuse-lite
+
+03/06/2026  01:04p.ÿm.               742 package.json
+               1 archivos            742 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chai
+
+03/06/2026  01:04p.ÿm.             2.084 package.json
+               1 archivos          2.084 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chalk
+
+03/06/2026  01:04p.ÿm.             1.640 package.json
+               1 archivos          1.640 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chardet
+
+03/06/2026  01:04p.ÿm.             2.004 package.json
+               1 archivos          2.004 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chokidar
+
+03/06/2026  01:04p.ÿm.             1.346 package.json
+               1 archivos          1.346 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chownr
+
+03/06/2026  01:04p.ÿm.             1.621 package.json
+               1 archivos          1.621 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chownr\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\chownr\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cli-cursor
+
+03/06/2026  01:04p.ÿm.               952 package.json
+               1 archivos            952 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cli-spinners
+
+03/06/2026  01:04p.ÿm.             1.100 package.json
+               1 archivos          1.100 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cli-truncate
+
+03/06/2026  01:04p.ÿm.               911 package.json
+               1 archivos            911 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cli-width
+
+03/06/2026  01:04p.ÿm.               977 package.json
+               1 archivos            977 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cliui
+
+03/06/2026  01:04p.ÿm.             1.631 package.json
+               1 archivos          1.631 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cliui\node_modules\string-width
+
+03/06/2026  01:04p.ÿm.             1.140 package.json
+               1 archivos          1.140 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cliui\node_modules\wrap-ansi
+
+03/06/2026  01:04p.ÿm.             1.147 package.json
+               1 archivos          1.147 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\color-convert
+
+03/06/2026  01:04p.ÿm.               827 package.json
+               1 archivos            827 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\color-name
+
+03/06/2026  01:04p.ÿm.               607 package.json
+               1 archivos            607 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\colorette
+
+03/06/2026  01:04p.ÿm.             1.022 package.json
+               1 archivos          1.022 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\content-disposition
+
+03/06/2026  01:04p.ÿm.             1.039 package.json
+               1 archivos          1.039 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\content-type
+
+03/06/2026  01:04p.ÿm.             1.075 package.json
+               1 archivos          1.075 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\convert-source-map
+
+03/06/2026  01:04p.ÿm.               842 package.json
+               1 archivos            842 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cookie
+
+03/06/2026  01:04p.ÿm.             1.092 package.json
+               1 archivos          1.092 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cookie-signature
+
+03/06/2026  01:04p.ÿm.               548 package.json
+               1 archivos            548 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cors
+
+03/06/2026  01:04p.ÿm.               926 package.json
+               1 archivos            926 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cross-spawn
+
+03/06/2026  01:04p.ÿm.             1.655 package.json
+               1 archivos          1.655 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-select
+
+03/06/2026  01:04p.ÿm.             2.177 package.json
+               1 archivos          2.177 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-select\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-select\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-tree
+
+03/06/2026  01:04p.ÿm.             3.909 package.json
+               1 archivos          3.909 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-what
+
+03/06/2026  01:04p.ÿm.             2.407 package.json
+               1 archivos          2.407 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-what\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\css-what\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cssstyle
+
+03/06/2026  01:04p.ÿm.             1.056 package.json
+               1 archivos          1.056 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cssstyle\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cssstyle\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\cssstyle\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\data-urls
+
+03/06/2026  01:04p.ÿm.             1.025 package.json
+               1 archivos          1.025 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\debug
+
+03/06/2026  01:04p.ÿm.             1.479 package.json
+               1 archivos          1.479 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\decimal.js
+
+03/06/2026  01:04p.ÿm.             1.190 package.json
+               1 archivos          1.190 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\depd
+
+03/06/2026  01:04p.ÿm.             1.335 package.json
+               1 archivos          1.335 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\detect-libc
+
+03/06/2026  01:04p.ÿm.             1.278 package.json
+               1 archivos          1.278 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\dom-serializer
+
+03/06/2026  01:04p.ÿm.             2.019 package.json
+               1 archivos          2.019 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\dom-serializer\lib\esm
+
+03/06/2026  01:04p.ÿm.                18 package.json
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\domelementtype
+
+03/06/2026  01:04p.ÿm.             1.543 package.json
+               1 archivos          1.543 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\domelementtype\lib\esm
+
+03/06/2026  01:04p.ÿm.                18 package.json
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\domhandler
+
+03/06/2026  01:04p.ÿm.             2.241 package.json
+               1 archivos          2.241 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\domhandler\lib\esm
+
+03/06/2026  01:04p.ÿm.                18 package.json
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\domutils
+
+03/06/2026  01:04p.ÿm.             2.560 package.json
+               1 archivos          2.560 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\domutils\lib\esm
+
+03/06/2026  01:04p.ÿm.                18 package.json
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\dunder-proto
+
+03/06/2026  01:04p.ÿm.             2.108 package.json
+               1 archivos          2.108 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ee-first
+
+03/06/2026  01:04p.ÿm.               859 package.json
+               1 archivos            859 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\electron-to-chromium
+
+03/06/2026  01:04p.ÿm.             1.021 package.json
+               1 archivos          1.021 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\emoji-regex
+
+03/06/2026  01:04p.ÿm.               984 package.json
+               1 archivos            984 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\encodeurl
+
+03/06/2026  01:04p.ÿm.             1.092 package.json
+               1 archivos          1.092 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\entities
+
+03/06/2026  01:04p.ÿm.             2.883 package.json
+               1 archivos          2.883 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\entities\lib\esm
+
+03/06/2026  01:04p.ÿm.                18 package.json
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\env-paths
+
+03/06/2026  01:04p.ÿm.               698 package.json
+               1 archivos            698 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\environment
+
+03/06/2026  01:04p.ÿm.             1.228 package.json
+               1 archivos          1.228 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\err-code
+
+03/06/2026  01:04p.ÿm.               844 package.json
+               1 archivos            844 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\es-define-property
+
+03/06/2026  01:04p.ÿm.             2.129 package.json
+               1 archivos          2.129 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\es-errors
+
+03/06/2026  01:04p.ÿm.             2.174 package.json
+               1 archivos          2.174 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\es-module-lexer
+
+03/06/2026  01:04p.ÿm.             1.464 package.json
+               1 archivos          1.464 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\es-object-atoms
+
+03/06/2026  01:04p.ÿm.             2.249 package.json
+               1 archivos          2.249 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\esbuild
+
+03/06/2026  01:04p.ÿm.             1.463 package.json
+               1 archivos          1.463 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\escalade
+
+03/06/2026  01:04p.ÿm.             1.461 package.json
+               1 archivos          1.461 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\escape-html
+
+03/06/2026  01:04p.ÿm.               434 package.json
+               1 archivos            434 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\estree-walker
+
+03/06/2026  01:04p.ÿm.               720 package.json
+               1 archivos            720 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\etag
+
+03/06/2026  01:04p.ÿm.             1.306 package.json
+               1 archivos          1.306 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\eventemitter3
+
+03/06/2026  01:04p.ÿm.             1.454 package.json
+               1 archivos          1.454 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\eventsource
+
+03/06/2026  01:04p.ÿm.             3.334 package.json
+               1 archivos          3.334 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\eventsource-parser
+
+03/06/2026  01:04p.ÿm.             2.734 package.json
+               1 archivos          2.734 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\expect-type
+
+03/06/2026  01:04p.ÿm.             1.122 package.json
+               1 archivos          1.122 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\exponential-backoff
+
+03/06/2026  01:04p.ÿm.             1.329 package.json
+               1 archivos          1.329 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\express
+
+03/06/2026  01:04p.ÿm.             2.731 package.json
+               1 archivos          2.731 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\express-rate-limit
+
+03/06/2026  01:04p.ÿm.             3.215 package.json
+               1 archivos          3.215 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\fast-deep-equal
+
+03/06/2026  01:04p.ÿm.             1.496 package.json
+               1 archivos          1.496 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\fast-uri
+
+03/06/2026  01:04p.ÿm.             1.983 package.json
+               1 archivos          1.983 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\fast-uri\benchmark
+
+03/06/2026  01:04p.ÿm.               293 package.json
+               1 archivos            293 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\fdir
+
+03/06/2026  01:04p.ÿm.             2.694 package.json
+               1 archivos          2.694 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\finalhandler
+
+03/06/2026  01:04p.ÿm.             1.287 package.json
+               1 archivos          1.287 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\forwarded
+
+03/06/2026  01:04p.ÿm.             1.150 package.json
+               1 archivos          1.150 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\fresh
+
+03/06/2026  01:04p.ÿm.             1.218 package.json
+               1 archivos          1.218 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\fs-minipass
+
+03/06/2026  01:04p.ÿm.             1.295 package.json
+               1 archivos          1.295 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\function-bind
+
+03/06/2026  01:04p.ÿm.             2.262 package.json
+               1 archivos          2.262 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\gensync
+
+03/06/2026  01:04p.ÿm.               906 package.json
+               1 archivos            906 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\get-caller-file
+
+03/06/2026  01:04p.ÿm.               954 package.json
+               1 archivos            954 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\get-east-asian-width
+
+03/06/2026  01:04p.ÿm.             1.281 package.json
+               1 archivos          1.281 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\get-intrinsic
+
+03/06/2026  01:04p.ÿm.             2.576 package.json
+               1 archivos          2.576 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\get-proto
+
+03/06/2026  01:04p.ÿm.             2.176 package.json
+               1 archivos          2.176 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\glob
+
+03/06/2026  01:04p.ÿm.             2.649 package.json
+               1 archivos          2.649 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\glob\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\glob\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\glob-to-regexp
+
+03/06/2026  01:04p.ÿm.               490 package.json
+               1 archivos            490 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\gopd
+
+03/06/2026  01:04p.ÿm.             2.070 package.json
+               1 archivos          2.070 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\graceful-fs
+
+03/06/2026  01:04p.ÿm.             1.031 package.json
+               1 archivos          1.031 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\has-symbols
+
+03/06/2026  01:04p.ÿm.             2.974 package.json
+               1 archivos          2.974 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hasown
+
+03/06/2026  01:04p.ÿm.             2.258 package.json
+               1 archivos          2.258 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hono
+
+03/06/2026  01:04p.ÿm.            23.131 package.json
+               1 archivos         23.131 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hono\dist\cjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hono\dist\types
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hosted-git-info
+
+03/06/2026  01:04p.ÿm.             1.727 package.json
+               1 archivos          1.727 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hosted-git-info\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hosted-git-info\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\hosted-git-info\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\html-encoding-sniffer
+
+03/06/2026  01:04p.ÿm.               749 package.json
+               1 archivos            749 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\htmlparser2
+
+03/06/2026  01:04p.ÿm.             3.275 package.json
+               1 archivos          3.275 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\htmlparser2\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\htmlparser2\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\htmlparser2\node_modules\entities
+
+03/06/2026  01:04p.ÿm.             3.740 package.json
+               1 archivos          3.740 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\htmlparser2\node_modules\entities\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\htmlparser2\node_modules\entities\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\http-cache-semantics
+
+03/06/2026  01:04p.ÿm.               600 package.json
+               1 archivos            600 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\http-errors
+
+03/06/2026  01:04p.ÿm.             1.410 package.json
+               1 archivos          1.410 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\http-proxy-agent
+
+03/06/2026  01:04p.ÿm.             1.084 package.json
+               1 archivos          1.084 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\https-proxy-agent
+
+03/06/2026  01:04p.ÿm.             1.223 package.json
+               1 archivos          1.223 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\iconv-lite
+
+03/06/2026  01:04p.ÿm.             2.260 package.json
+               1 archivos          2.260 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ignore-walk
+
+03/06/2026  01:04p.ÿm.             1.615 package.json
+               1 archivos          1.615 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\immutable
+
+03/06/2026  01:04p.ÿm.               773 package.json
+               1 archivos            773 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\inherits
+
+03/06/2026  01:04p.ÿm.               581 package.json
+               1 archivos            581 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ini
+
+03/06/2026  01:04p.ÿm.             1.058 package.json
+               1 archivos          1.058 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ip-address
+
+03/06/2026  01:04p.ÿm.             2.116 package.json
+               1 archivos          2.116 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ipaddr.js
+
+03/06/2026  01:04p.ÿm.               719 package.json
+               1 archivos            719 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-extglob
+
+03/06/2026  01:04p.ÿm.             1.220 package.json
+               1 archivos          1.220 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-fullwidth-code-point
+
+03/06/2026  01:04p.ÿm.               984 package.json
+               1 archivos            984 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-glob
+
+03/06/2026  01:04p.ÿm.             1.748 package.json
+               1 archivos          1.748 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-interactive
+
+03/06/2026  01:04p.ÿm.               746 package.json
+               1 archivos            746 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-potential-custom-element-name
+
+03/06/2026  01:04p.ÿm.               936 package.json
+               1 archivos            936 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-promise
+
+03/06/2026  01:04p.ÿm.               576 package.json
+               1 archivos            576 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\is-unicode-supported
+
+03/06/2026  01:04p.ÿm.               847 package.json
+               1 archivos            847 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\isexe
+
+03/06/2026  01:04p.ÿm.               786 package.json
+               1 archivos            786 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\istanbul-lib-coverage
+
+03/06/2026  01:04p.ÿm.             1.098 package.json
+               1 archivos          1.098 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\istanbul-lib-instrument
+
+03/06/2026  01:04p.ÿm.             1.154 package.json
+               1 archivos          1.154 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\jose
+
+03/06/2026  01:04p.ÿm.             5.633 package.json
+               1 archivos          5.633 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\js-tokens
+
+03/06/2026  01:04p.ÿm.               649 package.json
+               1 archivos            649 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\jsdom
+
+03/06/2026  01:04p.ÿm.             3.459 package.json
+               1 archivos          3.459 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\jsesc
+
+03/06/2026  01:04p.ÿm.             1.359 package.json
+               1 archivos          1.359 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\json-parse-even-better-errors
+
+03/06/2026  01:04p.ÿm.             1.197 package.json
+               1 archivos          1.197 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\json-schema-traverse
+
+03/06/2026  01:04p.ÿm.             1.004 package.json
+               1 archivos          1.004 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\json-schema-typed
+
+03/06/2026  01:04p.ÿm.             1.124 package.json
+               1 archivos          1.124 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\json5
+
+03/06/2026  01:04p.ÿm.             1.916 package.json
+               1 archivos          1.916 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\jsonc-parser
+
+03/06/2026  01:04p.ÿm.             1.180 package.json
+               1 archivos          1.180 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\jsonparse
+
+03/06/2026  01:04p.ÿm.               551 package.json
+               1 archivos            551 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\listr2
+
+03/06/2026  01:04p.ÿm.             2.329 package.json
+               1 archivos          2.329 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\listr2\node_modules\string-width
+
+03/06/2026  01:04p.ÿm.             1.140 package.json
+               1 archivos          1.140 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\listr2\node_modules\wrap-ansi
+
+03/06/2026  01:04p.ÿm.             1.147 package.json
+               1 archivos          1.147 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\lmdb
+
+03/06/2026  01:04p.ÿm.             4.608 package.json
+               1 archivos          4.608 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\log-symbols
+
+03/06/2026  01:04p.ÿm.             1.092 package.json
+               1 archivos          1.092 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\log-update
+
+03/06/2026  01:04p.ÿm.             1.257 package.json
+               1 archivos          1.257 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\log-update\node_modules\slice-ansi
+
+03/06/2026  01:04p.ÿm.               956 package.json
+               1 archivos            956 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\log-update\node_modules\string-width
+
+03/06/2026  01:04p.ÿm.             1.140 package.json
+               1 archivos          1.140 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\log-update\node_modules\wrap-ansi
+
+03/06/2026  01:04p.ÿm.             1.147 package.json
+               1 archivos          1.147 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.               776 package.json
+               1 archivos            776 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\magic-string
+
+03/06/2026  01:04p.ÿm.             1.840 package.json
+               1 archivos          1.840 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\make-fetch-happen
+
+03/06/2026  01:04p.ÿm.             1.800 package.json
+               1 archivos          1.800 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\math-intrinsics
+
+03/06/2026  01:04p.ÿm.             2.670 package.json
+               1 archivos          2.670 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\mdn-data
+
+03/06/2026  01:04p.ÿm.               763 package.json
+               1 archivos            763 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\media-typer
+
+03/06/2026  01:04p.ÿm.               925 package.json
+               1 archivos            925 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\merge-descriptors
+
+03/06/2026  01:04p.ÿm.               961 package.json
+               1 archivos            961 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\mime-db
+
+03/06/2026  01:04p.ÿm.             1.530 package.json
+               1 archivos          1.530 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\mime-types
+
+03/06/2026  01:04p.ÿm.             1.266 package.json
+               1 archivos          1.266 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\mimic-function
+
+03/06/2026  01:04p.ÿm.               832 package.json
+               1 archivos            832 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minimatch
+
+03/06/2026  01:04p.ÿm.             1.810 package.json
+               1 archivos          1.810 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minimatch\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minimatch\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass
+
+03/06/2026  01:04p.ÿm.             1.904 package.json
+               1 archivos          1.904 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-collect
+
+03/06/2026  01:04p.ÿm.               688 package.json
+               1 archivos            688 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-fetch
+
+03/06/2026  01:04p.ÿm.             1.747 package.json
+               1 archivos          1.747 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-flush
+
+03/06/2026  01:04p.ÿm.               858 package.json
+               1 archivos            858 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-flush\node_modules\minipass
+
+03/06/2026  01:04p.ÿm.             1.187 package.json
+               1 archivos          1.187 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-flush\node_modules\yallist
+
+03/06/2026  01:04p.ÿm.               652 package.json
+               1 archivos            652 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-pipeline
+
+03/06/2026  01:04p.ÿm.               588 package.json
+               1 archivos            588 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-pipeline\node_modules\minipass
+
+03/06/2026  01:04p.ÿm.             1.187 package.json
+               1 archivos          1.187 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-pipeline\node_modules\yallist
+
+03/06/2026  01:04p.ÿm.               652 package.json
+               1 archivos            652 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-sized
+
+03/06/2026  01:04p.ÿm.             1.594 package.json
+               1 archivos          1.594 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-sized\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minipass-sized\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minizlib
+
+03/06/2026  01:04p.ÿm.             1.842 package.json
+               1 archivos          1.842 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minizlib\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\minizlib\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\mrmime
+
+03/06/2026  01:04p.ÿm.               887 package.json
+               1 archivos            887 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ms
+
+03/06/2026  01:04p.ÿm.               732 package.json
+               1 archivos            732 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\msgpackr
+
+03/06/2026  01:04p.ÿm.             2.574 package.json
+               1 archivos          2.574 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\msgpackr-extract
+
+03/06/2026  01:04p.ÿm.             2.487 package.json
+               1 archivos          2.487 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\mute-stream
+
+03/06/2026  01:04p.ÿm.             1.231 package.json
+               1 archivos          1.231 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nanoid
+
+03/06/2026  01:04p.ÿm.             2.283 package.json
+               1 archivos          2.283 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nanoid\async
+
+03/06/2026  01:04p.ÿm.               233 package.json
+               1 archivos            233 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nanoid\non-secure
+
+03/06/2026  01:04p.ÿm.                99 package.json
+               1 archivos             99 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nanoid\url-alphabet
+
+03/06/2026  01:04p.ÿm.                99 package.json
+               1 archivos             99 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\negotiator
+
+03/06/2026  01:04p.ÿm.             1.080 package.json
+               1 archivos          1.080 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-addon-api
+
+03/06/2026  01:04p.ÿm.               467 package-support.json
+03/06/2026  01:04p.ÿm.            10.455 package.json
+               2 archivos         10.922 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp
+
+03/06/2026  01:04p.ÿm.             1.261 package.json
+               1 archivos          1.261 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp\node_modules\isexe
+
+03/06/2026  01:04p.ÿm.             1.977 package.json
+               1 archivos          1.977 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp\node_modules\isexe\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp\node_modules\isexe\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp\node_modules\undici
+
+03/06/2026  01:04p.ÿm.             6.290 package.json
+               1 archivos          6.290 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp\node_modules\which
+
+03/06/2026  01:04p.ÿm.             1.245 package.json
+               1 archivos          1.245 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-gyp-build-optional-packages
+
+03/06/2026  01:04p.ÿm.               897 package.json
+               1 archivos            897 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\node-releases
+
+03/06/2026  01:04p.ÿm.               513 package.json
+               1 archivos            513 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nopt
+
+03/06/2026  01:04p.ÿm.             1.214 package.json
+               1 archivos          1.214 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-bundled
+
+03/06/2026  01:04p.ÿm.             1.229 package.json
+               1 archivos          1.229 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-install-checks
+
+03/06/2026  01:04p.ÿm.             1.216 package.json
+               1 archivos          1.216 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-normalize-package-bin
+
+03/06/2026  01:04p.ÿm.             1.143 package.json
+               1 archivos          1.143 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-package-arg
+
+03/06/2026  01:04p.ÿm.             1.503 package.json
+               1 archivos          1.503 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-packlist
+
+03/06/2026  01:04p.ÿm.             1.447 package.json
+               1 archivos          1.447 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-pick-manifest
+
+03/06/2026  01:04p.ÿm.             1.441 package.json
+               1 archivos          1.441 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\npm-registry-fetch
+
+03/06/2026  01:04p.ÿm.             1.684 package.json
+               1 archivos          1.684 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nth-check
+
+03/06/2026  01:04p.ÿm.             2.455 package.json
+               1 archivos          2.455 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\nth-check\lib\esm
+
+03/06/2026  01:04p.ÿm.                18 package.json
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\object-assign
+
+03/06/2026  01:04p.ÿm.               764 package.json
+               1 archivos            764 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\object-inspect
+
+03/06/2026  01:04p.ÿm.               365 package-support.json
+03/06/2026  01:04p.ÿm.             2.841 package.json
+               2 archivos          3.206 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\obug
+
+03/06/2026  01:04p.ÿm.             1.816 package.json
+               1 archivos          1.816 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\on-finished
+
+03/06/2026  01:04p.ÿm.             1.057 package.json
+               1 archivos          1.057 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\once
+
+03/06/2026  01:04p.ÿm.               574 package.json
+               1 archivos            574 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\onetime
+
+03/06/2026  01:04p.ÿm.               836 package.json
+               1 archivos            836 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ora
+
+03/06/2026  01:04p.ÿm.             1.183 package.json
+               1 archivos          1.183 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ordered-binary
+
+03/06/2026  01:04p.ÿm.               875 package.json
+               1 archivos            875 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\p-map
+
+03/06/2026  01:04p.ÿm.               993 package.json
+               1 archivos            993 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\pacote
+
+03/06/2026  01:04p.ÿm.             1.953 package.json
+               1 archivos          1.953 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5
+
+03/06/2026  01:04p.ÿm.             1.323 package.json
+               1 archivos          1.323 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5\node_modules\entities
+
+03/06/2026  01:04p.ÿm.             2.563 package.json
+               1 archivos          2.563 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5-html-rewriting-stream
+
+03/06/2026  01:04p.ÿm.             1.060 package.json
+               1 archivos          1.060 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5-html-rewriting-stream\node_modules\entities
+
+03/06/2026  01:04p.ÿm.             3.659 package.json
+               1 archivos          3.659 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5-html-rewriting-stream\node_modules\entities\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5-html-rewriting-stream\node_modules\entities\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parse5-sax-parser
+
+03/06/2026  01:04p.ÿm.               947 package.json
+               1 archivos            947 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\parseurl
+
+03/06/2026  01:04p.ÿm.             1.180 package.json
+               1 archivos          1.180 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-key
+
+03/06/2026  01:04p.ÿm.               650 package.json
+               1 archivos            650 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-scurry
+
+03/06/2026  01:04p.ÿm.             1.784 package.json
+               1 archivos          1.784 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-scurry\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-scurry\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-scurry\node_modules\lru-cache
+
+03/06/2026  01:04p.ÿm.             4.362 package.json
+               1 archivos          4.362 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-scurry\node_modules\lru-cache\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\path-to-regexp
+
+03/06/2026  01:04p.ÿm.             1.399 package.json
+               1 archivos          1.399 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\pathe
+
+03/06/2026  01:04p.ÿm.             1.534 package.json
+               1 archivos          1.534 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\picocolors
+
+03/06/2026  01:04p.ÿm.               552 package.json
+               1 archivos            552 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\picomatch
+
+03/06/2026  01:04p.ÿm.             1.896 package.json
+               1 archivos          1.896 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\piscina
+
+03/06/2026  01:04p.ÿm.             2.390 package.json
+               1 archivos          2.390 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\pkce-challenge
+
+03/06/2026  01:04p.ÿm.             1.648 package.json
+               1 archivos          1.648 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\postcss
+
+03/06/2026  01:04p.ÿm.             2.497 package.json
+               1 archivos          2.497 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\postcss-media-query-parser
+
+03/06/2026  01:04p.ÿm.             1.383 package.json
+               1 archivos          1.383 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\postcss-safe-parser
+
+03/06/2026  01:04p.ÿm.               770 package.json
+               1 archivos            770 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\prettier
+
+03/06/2026  01:04p.ÿm.             6.328 package.json
+               1 archivos          6.328 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\proc-log
+
+03/06/2026  01:04p.ÿm.             1.132 package.json
+               1 archivos          1.132 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\promise-retry
+
+03/06/2026  01:04p.ÿm.               843 package.json
+               1 archivos            843 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\proxy-addr
+
+03/06/2026  01:04p.ÿm.             1.183 package.json
+               1 archivos          1.183 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\punycode
+
+03/06/2026  01:04p.ÿm.             1.227 package.json
+               1 archivos          1.227 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\qs
+
+03/06/2026  01:04p.ÿm.             3.151 package.json
+               1 archivos          3.151 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\range-parser
+
+03/06/2026  01:04p.ÿm.             1.184 package.json
+               1 archivos          1.184 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\raw-body
+
+03/06/2026  01:04p.ÿm.             1.275 package.json
+               1 archivos          1.275 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\readdirp
+
+03/06/2026  01:04p.ÿm.             1.551 package.json
+               1 archivos          1.551 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\reflect-metadata
+
+03/06/2026  01:04p.ÿm.             1.635 package.json
+               1 archivos          1.635 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\require-from-string
+
+03/06/2026  01:04p.ÿm.               511 package.json
+               1 archivos            511 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\restore-cursor
+
+03/06/2026  01:04p.ÿm.               970 package.json
+               1 archivos            970 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\retry
+
+03/06/2026  01:04p.ÿm.             1.022 package.json
+               1 archivos          1.022 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rfdc
+
+03/06/2026  01:04p.ÿm.             1.656 package.json
+               1 archivos          1.656 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rolldown
+
+03/06/2026  01:04p.ÿm.             5.501 package.json
+               1 archivos          5.501 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rollup
+
+03/06/2026  01:04p.ÿm.            12.427 package.json
+               1 archivos         12.427 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rollup\dist\es
+
+03/06/2026  01:04p.ÿm.                17 package.json
+               1 archivos             17 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\router
+
+03/06/2026  01:04p.ÿm.             1.142 package.json
+               1 archivos          1.142 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rxjs
+
+03/06/2026  01:04p.ÿm.             8.116 package.json
+               1 archivos          8.116 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rxjs\ajax
+
+03/06/2026  01:04p.ÿm.               216 package.json
+               1 archivos            216 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rxjs\fetch
+
+03/06/2026  01:04p.ÿm.               221 package.json
+               1 archivos            221 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rxjs\operators
+
+03/06/2026  01:04p.ÿm.               241 package.json
+               1 archivos            241 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rxjs\testing
+
+03/06/2026  01:04p.ÿm.               231 package.json
+               1 archivos            231 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\rxjs\webSocket
+
+03/06/2026  01:04p.ÿm.               241 package.json
+               1 archivos            241 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\safer-buffer
+
+03/06/2026  01:04p.ÿm.               822 package.json
+               1 archivos            822 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\sass
+
+03/06/2026  01:04p.ÿm.               854 package.json
+               1 archivos            854 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\sass\node_modules\chokidar
+
+03/06/2026  01:04p.ÿm.             1.517 package.json
+               1 archivos          1.517 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\sass\node_modules\chokidar\esm
+
+03/06/2026  01:04p.ÿm.                43 package.json
+               1 archivos             43 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\sass\node_modules\readdirp
+
+03/06/2026  01:04p.ÿm.             1.660 package.json
+               1 archivos          1.660 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\sass\node_modules\readdirp\esm
+
+03/06/2026  01:04p.ÿm.                43 package.json
+               1 archivos             43 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\saxes
+
+03/06/2026  01:04p.ÿm.             2.845 package.json
+               1 archivos          2.845 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\semver
+
+03/06/2026  01:04p.ÿm.             1.663 package.json
+               1 archivos          1.663 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\send
+
+03/06/2026  01:04p.ÿm.             1.669 package.json
+               1 archivos          1.669 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\serve-static
+
+03/06/2026  01:04p.ÿm.             1.193 package.json
+               1 archivos          1.193 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\setprototypeof
+
+03/06/2026  01:04p.ÿm.             1.264 package.json
+               1 archivos          1.264 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\shebang-command
+
+03/06/2026  01:04p.ÿm.               558 package.json
+               1 archivos            558 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\shebang-regex
+
+03/06/2026  01:04p.ÿm.               582 package.json
+               1 archivos            582 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\side-channel
+
+03/06/2026  01:04p.ÿm.             2.361 package.json
+               1 archivos          2.361 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\side-channel-list
+
+03/06/2026  01:04p.ÿm.             2.258 package.json
+               1 archivos          2.258 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\side-channel-map
+
+03/06/2026  01:04p.ÿm.             2.336 package.json
+               1 archivos          2.336 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\side-channel-weakmap
+
+03/06/2026  01:04p.ÿm.             2.447 package.json
+               1 archivos          2.447 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\siginfo
+
+03/06/2026  01:04p.ÿm.               676 package.json
+               1 archivos            676 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\signal-exit
+
+03/06/2026  01:04p.ÿm.             2.573 package.json
+               1 archivos          2.573 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\signal-exit\dist\cjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\signal-exit\dist\mjs
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\sigstore
+
+03/06/2026  01:04p.ÿm.             1.182 package.json
+               1 archivos          1.182 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\slice-ansi
+
+03/06/2026  01:04p.ÿm.               990 package.json
+               1 archivos            990 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\smart-buffer
+
+03/06/2026  01:04p.ÿm.             1.969 package.json
+               1 archivos          1.969 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\socks
+
+03/06/2026  01:04p.ÿm.             1.651 package.json
+               1 archivos          1.651 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\socks-proxy-agent
+
+03/06/2026  01:04p.ÿm.             3.203 package.json
+               1 archivos          3.203 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\source-map
+
+03/06/2026  01:04p.ÿm.             2.801 package.json
+               1 archivos          2.801 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\source-map-js
+
+03/06/2026  01:04p.ÿm.             2.548 package.json
+               1 archivos          2.548 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\source-map-support
+
+03/06/2026  01:04p.ÿm.               764 package.json
+               1 archivos            764 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\source-map-support\node_modules\source-map
+
+03/06/2026  01:04p.ÿm.             2.579 package.json
+               1 archivos          2.579 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\spdx-exceptions
+
+03/06/2026  01:04p.ÿm.               463 package.json
+               1 archivos            463 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\spdx-expression-parse
+
+03/06/2026  01:04p.ÿm.               912 package.json
+               1 archivos            912 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\spdx-license-ids
+
+03/06/2026  01:04p.ÿm.               547 package.json
+               1 archivos            547 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\ssri
+
+03/06/2026  01:04p.ÿm.             1.832 package.json
+               1 archivos          1.832 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\stackback
+
+03/06/2026  01:04p.ÿm.               485 package.json
+               1 archivos            485 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\statuses
+
+03/06/2026  01:04p.ÿm.             1.440 package.json
+               1 archivos          1.440 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\std-env
+
+03/06/2026  01:04p.ÿm.             1.119 package.json
+               1 archivos          1.119 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\stdin-discarder
+
+03/06/2026  01:04p.ÿm.               763 package.json
+               1 archivos            763 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\string-width
+
+03/06/2026  01:04p.ÿm.             1.138 package.json
+               1 archivos          1.138 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\strip-ansi
+
+03/06/2026  01:04p.ÿm.               961 package.json
+               1 archivos            961 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\symbol-tree
+
+03/06/2026  01:04p.ÿm.             1.296 package.json
+               1 archivos          1.296 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tar
+
+03/06/2026  01:04p.ÿm.             7.839 package.json
+               1 archivos          7.839 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tar\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tar\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tar\node_modules\yallist
+
+03/06/2026  01:04p.ÿm.             1.618 package.json
+               1 archivos          1.618 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tar\node_modules\yallist\dist\commonjs
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tar\node_modules\yallist\dist\esm
+
+03/06/2026  01:04p.ÿm.                23 package.json
+               1 archivos             23 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tinybench
+
+03/06/2026  01:04p.ÿm.               540 package.json
+               1 archivos            540 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tinyexec
+
+03/06/2026  01:04p.ÿm.             1.481 package.json
+               1 archivos          1.481 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tinyglobby
+
+03/06/2026  01:04p.ÿm.             1.818 package.json
+               1 archivos          1.818 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tinyrainbow
+
+03/06/2026  01:04p.ÿm.               765 package.json
+               1 archivos            765 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tldts
+
+03/06/2026  01:04p.ÿm.             2.505 package.json
+               1 archivos          2.505 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tldts-core
+
+03/06/2026  01:04p.ÿm.             2.111 package.json
+               1 archivos          2.111 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\toidentifier
+
+03/06/2026  01:04p.ÿm.             1.142 package.json
+               1 archivos          1.142 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tough-cookie
+
+03/06/2026  01:04p.ÿm.             4.105 package.json
+               1 archivos          4.105 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tr46
+
+03/06/2026  01:04p.ÿm.             1.054 package.json
+               1 archivos          1.054 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tslib
+
+03/06/2026  01:04p.ÿm.             1.219 package.json
+               1 archivos          1.219 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tslib\modules
+
+03/06/2026  01:04p.ÿm.                26 package.json
+               1 archivos             26 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\tuf-js
+
+03/06/2026  01:04p.ÿm.             1.058 package.json
+               1 archivos          1.058 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\type-is
+
+03/06/2026  01:04p.ÿm.             1.333 package.json
+               1 archivos          1.333 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\type-is\node_modules\content-type
+
+03/06/2026  01:04p.ÿm.             1.126 package.json
+               1 archivos          1.126 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\typescript
+
+03/06/2026  01:04p.ÿm.             3.620 package.json
+               1 archivos          3.620 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\undici
+
+03/06/2026  01:04p.ÿm.             6.333 package.json
+               1 archivos          6.333 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\unpipe
+
+03/06/2026  01:04p.ÿm.               770 package.json
+               1 archivos            770 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\update-browserslist-db
+
+03/06/2026  01:04p.ÿm.               916 package.json
+               1 archivos            916 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\validate-npm-package-name
+
+03/06/2026  01:04p.ÿm.             1.924 package.json
+               1 archivos          1.924 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\vary
+
+03/06/2026  01:04p.ÿm.             1.215 package.json
+               1 archivos          1.215 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\vite
+
+03/06/2026  01:04p.ÿm.             5.147 package.json
+               1 archivos          5.147 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\vite\types
+
+03/06/2026  01:04p.ÿm.               109 package.json
+               1 archivos            109 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\vitest
+
+03/06/2026  01:04p.ÿm.             5.918 package.json
+               1 archivos          5.918 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\w3c-xmlserializer
+
+03/06/2026  01:04p.ÿm.               598 package.json
+               1 archivos            598 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\watchpack
+
+03/06/2026  01:04p.ÿm.             2.417 package.json
+               1 archivos          2.417 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\weak-lru-cache
+
+03/06/2026  01:04p.ÿm.               921 package.json
+               1 archivos            921 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\webidl-conversions
+
+03/06/2026  01:04p.ÿm.               794 package.json
+               1 archivos            794 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\whatwg-mimetype
+
+03/06/2026  01:04p.ÿm.               971 package.json
+               1 archivos            971 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\whatwg-url
+
+03/06/2026  01:04p.ÿm.             1.479 package.json
+               1 archivos          1.479 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\which
+
+03/06/2026  01:04p.ÿm.             1.043 package.json
+               1 archivos          1.043 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\why-is-node-running
+
+03/06/2026  01:04p.ÿm.               855 package.json
+               1 archivos            855 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi
+
+03/06/2026  01:04p.ÿm.               945 package.json
+               1 archivos            945 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi\node_modules\ansi-regex
+
+03/06/2026  01:04p.ÿm.               841 package.json
+               1 archivos            841 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi\node_modules\ansi-styles
+
+03/06/2026  01:04p.ÿm.             1.054 package.json
+               1 archivos          1.054 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi\node_modules\emoji-regex
+
+03/06/2026  01:04p.ÿm.             1.278 package.json
+               1 archivos          1.278 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi\node_modules\is-fullwidth-code-point
+
+03/06/2026  01:04p.ÿm.               737 package.json
+               1 archivos            737 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi\node_modules\string-width
+
+03/06/2026  01:04p.ÿm.               941 package.json
+               1 archivos            941 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrap-ansi\node_modules\strip-ansi
+
+03/06/2026  01:04p.ÿm.               798 package.json
+               1 archivos            798 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\wrappy
+
+03/06/2026  01:04p.ÿm.               606 package.json
+               1 archivos            606 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\xml-name-validator
+
+03/06/2026  01:04p.ÿm.               699 package.json
+               1 archivos            699 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\xmlchars
+
+03/06/2026  01:04p.ÿm.             2.064 package.json
+               1 archivos          2.064 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\y18n
+
+03/06/2026  01:04p.ÿm.             1.775 package.json
+               1 archivos          1.775 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yallist
+
+03/06/2026  01:04p.ÿm.               652 package.json
+               1 archivos            652 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yargs
+
+03/06/2026  01:04p.ÿm.             2.704 package.json
+               1 archivos          2.704 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yargs\helpers
+
+03/06/2026  01:04p.ÿm.                25 package.json
+               1 archivos             25 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yargs\node_modules\string-width
+
+03/06/2026  01:04p.ÿm.             1.140 package.json
+               1 archivos          1.140 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yargs-parser
+
+03/06/2026  01:04p.ÿm.             1.968 package.json
+               1 archivos          1.968 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yoctocolors
+
+03/06/2026  01:04p.ÿm.             1.234 package.json
+               1 archivos          1.234 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\yoctocolors-cjs
+
+03/06/2026  01:04p.ÿm.             1.237 package.json
+               1 archivos          1.237 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod
+
+03/06/2026  01:04p.ÿm.             3.796 package.json
+               1 archivos          3.796 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\locales
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\mini
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v3
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v4
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v4\classic
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v4\core
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v4\locales
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v4\mini
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod\v4-mini
+
+03/06/2026  01:04p.ÿm.               104 package.json
+               1 archivos            104 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod-to-json-schema
+
+03/06/2026  01:04p.ÿm.             2.968 package.json
+               1 archivos          2.968 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod-to-json-schema\dist\cjs
+
+03/06/2026  01:04p.ÿm.                19 package.json
+               1 archivos             19 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zod-to-json-schema\dist\esm
+
+03/06/2026  01:04p.ÿm.                35 package.json
+               1 archivos             35 bytes
+
+ Directorio de C:\Users\rave_\Polla_Mundial\frontend\node_modules\zone.js
+
+03/06/2026  01:35p.ÿm.             2.622 package.json
+               1 archivos          2.622 bytes
+
+     Total de archivos en la lista:
+             608 archivos      1.144.203 bytes
+               0 dirs  303.182.209.024 bytes libres
